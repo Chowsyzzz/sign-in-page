@@ -438,3 +438,19 @@ body {
   white-space: nowrap;
   font-style: var(--small-font-style);
 }
+
+
+.frame .github {
+  background-color: #ABFFBC;
+  color: black;
+  border: none;
+  display: block;
+  height: 45px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  font-size: medium;
+
+}
